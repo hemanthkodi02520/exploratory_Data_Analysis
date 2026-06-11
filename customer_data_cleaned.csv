@@ -1,0 +1,51 @@
+CustomerID,Name,Gender,Age,City,PurchaseAmount,JoinDate,AgeGroup
+1,Rahul,Male,25.0,Hyderabad,1200.0,2024-01-15,Young Adult
+2,Priya,Female,29.0,Chennai,1500.0,2024-02-10,Young Adult
+3,Amit,Male,35.0,Bangalore,2000.0,2024-03-05,Adult
+4,Sneha,Female,31.0,Mumbai,1800.0,2024-01-20,Adult
+5,Karan,Male,40.0,Delhi,2500.0,2024-02-15,Adult
+6,Anjali,Female,27.0,Hyderabad,1400.0,2024-03-12,Young Adult
+7,Rohit,Male,31.0,Chennai,2004.0816326530612,2024-01-08,Adult
+8,Meera,Female,24.0,Bangalore,1700.0,2024-04-10,Young Adult
+9,Vikram,Male,38.0,Mumbai,2200.0,2024-02-28,Adult
+10,Pooja,Female,26.0,Delhi,1600.0,2024-03-18,Young Adult
+11,Arjun,Male,29.0,Hyderabad,1900.0,2024-01-22,Young Adult
+12,Divya,Female,33.0,Chennai,2100.0,2024-02-14,Adult
+13,Nikhil,Male,41.0,Bangalore,2700.0,2024-03-25,Senior
+14,Kavya,Female,22.0,Mumbai,1300.0,2024-04-02,Young Adult
+15,Suresh,Male,37.0,Delhi,2300.0,2024-01-11,Adult
+16,Latha,Female,28.0,Hyderabad,1500.0,2024-02-19,Young Adult
+17,Ramesh,Male,31.0,Chennai,1800.0,2024-03-07,Adult
+18,Neha,Female,30.0,Bangalore,2000.0,2024-04-15,Young Adult
+19,Ajay,Male,34.0,Mumbai,2400.0,2024-02-23,Adult
+20,Swathi,Female,25.0,Delhi,1700.0,2024-03-30,Young Adult
+21,Manoj,Male,36.0,Hyderabad,2200.0,2024-01-17,Adult
+22,Deepika,Female,27.0,Chennai,1600.0,2024-02-26,Young Adult
+23,Varun,Male,39.0,Bangalore,2600.0,2024-03-19,Adult
+24,Bhavana,Female,24.0,Mumbai,1400.0,2024-04-08,Young Adult
+25,Prakash,Male,42.0,Delhi,2800.0,2024-01-05,Senior
+26,Harsha,Female,31.0,Hyderabad,1900.0,2024-02-17,Adult
+27,Satish,Male,33.0,Chennai,2100.0,2024-03-10,Adult
+28,Anu,Female,26.0,Bangalore,1700.0,2024-04-20,Young Adult
+29,Rajesh,Male,45.0,Mumbai,3000.0,2024-01-29,Senior
+30,Keerthi,Female,28.0,Delhi,1800.0,2024-02-22,Young Adult
+31,Naveen,Male,35.0,Hyderabad,2300.0,2024-03-15,Adult
+32,Shilpa,Female,23.0,Chennai,1500.0,2024-04-04,Young Adult
+33,Santosh,Male,38.0,Bangalore,2500.0,2024-01-13,Adult
+34,Asha,Female,29.0,Mumbai,1900.0,2024-02-27,Young Adult
+35,Murali,Male,41.0,Delhi,2700.0,2024-03-21,Senior
+36,Padma,Female,25.0,Hyderabad,1600.0,2024-04-12,Young Adult
+37,Gopi,Male,32.0,Chennai,2200.0,2024-01-09,Adult
+38,Rani,Female,30.0,Bangalore,2000.0,2024-02-11,Young Adult
+39,Srikanth,Male,37.0,Mumbai,2400.0,2024-03-27,Adult
+40,Bindu,Female,24.0,Delhi,1400.0,2024-04-06,Young Adult
+41,Mahesh,Male,43.0,Hyderabad,2900.0,2024-01-24,Senior
+42,Sunitha,Female,27.0,Chennai,1700.0,2024-02-16,Young Adult
+43,Rakesh,Male,36.0,Bangalore,2300.0,2024-03-08,Adult
+44,Lakshmi,Female,31.0,Mumbai,1900.0,2024-04-18,Adult
+45,Chandra,Male,40.0,Delhi,2600.0,2024-01-30,Adult
+46,Jyothi,Female,26.0,Hyderabad,1500.0,2024-02-25,Young Adult
+47,Uday,Male,34.0,Chennai,2200.0,2024-03-13,Adult
+48,Sowmya,Female,28.0,Bangalore,1800.0,2024-04-09,Young Adult
+49,Hari,Male,39.0,Mumbai,2500.0,2024-01-27,Adult
+50,Nandini,Female,25.0,Delhi,1600.0,2024-02-20,Young Adult
